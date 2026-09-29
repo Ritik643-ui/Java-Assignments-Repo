@@ -1,0 +1,45 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61724 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/Customer Billing System/target/classes com.Learning.Basics.CustomerBill
+How many TVs were sold? 2
+How many VCRs were sold? 1
+How many Remote Controllers were sold? 4
+How many CD Players were sold? 1
+How many Tape Recorders were sold? 2
+==========================================================
+  QTY   DESCRIPTION           UNIT PRICE TOTAL PRICE
+----------------------------------------------------------
+    2   TV                   $    400.00 $    800.00
+    2   VCR                  $    220.00 $    220.00
+    2   Remote               $     35.20 $    140.80
+    2   CD                   $    300.00 $    300.00
+    2   Taper                $    150.00 $    300.00
+------------------------------------------------------------
+                               SUBTOTAL: $   1760.80
+                                   Tax:  $    145.27
+                                 Total:  $   1906.07
+=============================================================
+
+Process finished with exit code 0
+
+
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61738 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/Customer Billing System/target/classes com.Learning.Basics.CustomerBill
+How many TVs were sold? 3
+How many VCRs were sold? 0
+How many Remote Controllers were sold? 2
+How many CD Players were sold? 0
+How many Tape Recorders were sold? 21
+==========================================================
+  QTY   DESCRIPTION           UNIT PRICE TOTAL PRICE
+----------------------------------------------------------
+    3   TV                   $    400.00 $   1200.00
+    3   VCR                  $    220.00 $      0.00
+    3   Remote               $     35.20 $     70.40
+    3   CD                   $    300.00 $      0.00
+    3   Taper                $    150.00 $   3150.00
+------------------------------------------------------------
+                               SUBTOTAL: $   4420.40
+                                   Tax:  $    364.68
+                                 Total:  $   4785.08
+=============================================================
+
+Process finished with exit code 0

@@ -1,0 +1,30 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50201 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Assignment2a/PersonalInformation/target/classes com.Learning.Basics.Driver
+Enter name:
+mike
+Enter address:
+kathmandu
+Enter Age
+2
+Enter Phone-number
+6757283949
+Enter name:
+mullen
+Enter address:
+berlin
+Enter Age
+33
+Enter Phone-number
+6527354728
+Enter name:
+gordon
+Enter address:
+pepsicola
+Enter Age
+29
+Enter Phone-number
+3547264738
+Person{name='mike', address='kathmandu', age=2, phoneNumber=6757283949}
+Person{name='mullen', address='berlin', age=33, phoneNumber=6527354728}
+Person{name='gordon', address='pepsicola', age=29, phoneNumber=3547264738}
+
+Process finished with exit code 0

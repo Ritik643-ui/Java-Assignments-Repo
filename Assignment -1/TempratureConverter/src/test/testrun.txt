@@ -1,0 +1,29 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61634 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/TempratureConverter/target/classes com.Learning.Basics.TemperatureConverter
+Enter temperature in celsius
+0
+0.00°C = 32.00°F
+Enter temperature in Fahrenheit
+10
+10.00°F = -12.22°C
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61642 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/TempratureConverter/target/classes com.Learning.Basics.TemperatureConverter
+Enter temperature in celsius
+100
+100.00°C = 212.00°F
+Enter temperature in Fahrenheit
+98.6
+98.60°F = 37.00°C
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=61656 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/TempratureConverter/target/classes com.Learning.Basics.TemperatureConverter
+Enter temperature in celsius
+-40
+-40.00°C = -40.00°F
+Enter temperature in Fahrenheit
+-13
+-13.00°F = -25.00°C
+
+Process finished with exit code 0

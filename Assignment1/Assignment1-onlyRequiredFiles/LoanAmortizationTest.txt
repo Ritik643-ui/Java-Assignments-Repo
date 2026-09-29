@@ -1,0 +1,63 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=65147 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/LoanAmortization/target/classes com.Learning.Generics.LoanAmortization
+Enter Loan Amount
+10000
+Enter number of years
+1
+Enter annual rate of interest
+7
+Monthly Payment: 865.27
+Total Payment: 10383.21
+Payment#       Interest    Principal      Balance
+1                 58.33       806.93      9193.07
+2                 53.63       811.64      8381.42
+3                 48.89       816.38      7565.05
+4                 44.13       821.14      6743.91
+5                 39.34       825.93      5917.98
+6                 34.52       830.75      5087.24
+7                 29.68       835.59      4251.65
+8                 24.80       840.47      3411.18
+9                 19.90       845.37      2565.81
+10                14.97       850.30      1715.51
+11                10.01       855.26       860.25
+12                 5.02       860.25         0.00
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49390 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/Assignment1/LoanAmortization/target/classes com.Learning.Generics.LoanAmortization
+Enter Loan Amount
+20000
+Enter number of years
+2
+Enter annual rate of interest
+3
+Monthly Payment: 859.62
+Total Payment: 20630.98
+Payment#       Interest    Principal      Balance
+1                 50.00       809.62     19190.38
+2                 47.98       811.65     18378.73
+3                 45.95       813.68     17565.05
+4                 43.91       815.71     16749.34
+5                 41.87       817.75     15931.59
+6                 39.83       819.80     15111.79
+7                 37.78       821.84     14289.95
+8                 35.72       823.90     13466.05
+9                 33.67       825.96     12640.09
+10                31.60       828.02     11812.06
+11                29.53       830.09     10981.97
+12                27.45       832.17     10149.80
+13                25.37       834.25      9315.55
+14                23.29       836.34      8479.22
+15                21.20       838.43      7640.79
+16                19.10       840.52      6800.27
+17                17.00       842.62      5957.64
+18                14.89       844.73      5112.91
+19                12.78       846.84      4266.07
+20                10.67       848.96      3417.11
+21                 8.54       851.08      2566.03
+22                 6.42       853.21      1712.82
+23                 4.28       855.34       857.48
+24                 2.14       857.48        -0.00
+
+Process finished with exit code 0
+
+

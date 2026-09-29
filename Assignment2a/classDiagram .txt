@@ -1,0 +1,45 @@
+PERSONAL INFORMATION — CLASS DIAGRAM
+
++----------------------------------------------------------+
+| Person                                                   |
++----------------------------------------------------------+
+| - name: String                                           |
+| - address: String                                        |
+| - age: int                                               |
+| - phoneNumber: Long                                      |
++----------------------------------------------------------+
+| + Person()                                               |
+| + Person(name: String, address: String,                   |
+|          age: int, phoneNumber: Long)                     |
+| + getName(): String                                      |
+| + setName(name: String): void                             |
+| + getAddress(): String                                   |
+| + setAddress(address: String): void                       |
+| + getAge(): int                                          |
+| + setAge(age: int): void                                  |
+| + getPhoneNumber(): Long                                 |
+| + setPhoneNumber(phoneNumber: Long): void                 |
+| + print(): void                                          |
++----------------------------------------------------------+
+                            ^
+                            | stores 0 or more Person objects
+                            |
++----------------------------------------------------------+
+| Driver                                                   |
++----------------------------------------------------------+
+| - people: List<Person>                                   |
+| - sc: Scanner                                            |
++----------------------------------------------------------+
+| + Driver()                                               |
+| + readValue(): Person                                    |
+| + storeValue(person: Person): void                       |
+| + print(personList: List<Person>): void                   |
+| + main(args: String[]): void [static]                    |
++----------------------------------------------------------+
+
+Legend:
+- = private
++ = public
+
+Driver() is automatically supplied by Java.
+The program creates and stores three Person objects.

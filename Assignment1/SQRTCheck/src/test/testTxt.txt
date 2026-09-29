@@ -1,0 +1,32 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49284 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/SQRTCheck/target/classes com.Learning.Generics.Runner
+Enter a positive whole number:
+2
+Approximated square root:
+1.4142135624
+Math.sqrt() result:
+1.4142135624
+
+Process finished with exit code 0
+
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49291 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/SQRTCheck/target/classes com.Learning.Generics.Runner
+Enter a positive whole number:
+144
+Approximated square root:
+12.0000000000
+Math.sqrt() result:
+12.0000000000
+
+Process finished with exit code 0
+
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49300 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Project1/SQRTCheck/target/classes com.Learning.Generics.Runner
+Enter a positive whole number:
+625
+Approximated square root:
+25.0000000000
+Math.sqrt() result:
+25.0000000000
+
+Process finished with exit code 0
+
+
