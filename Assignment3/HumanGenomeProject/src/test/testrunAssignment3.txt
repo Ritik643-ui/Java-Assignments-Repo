@@ -1,0 +1,791 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=58468 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Assignment3/HumanGenomeProject/target/classes com.Learning.BackToBasics.DNADriver
+
+========================================
+Input strand: AGCCTAGGATCAG
+========================================
+LtoRHelix:
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+RtoLHelix:
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+LtoRHelix highest molar mass: 151.13000 g/mol
+Indexes: 1 6 7 12
+RtoLHelix highest molar mass: 151.13000 g/mol
+Indexes: 2 3 10
+LtoRHelix total density: 22.296 g/cm3
+RtoLHelix total density: 20.892 g/cm3
+
+========================================
+Input strand: AGCCTAGGATCTAGGATCAG
+========================================
+LtoRHelix:
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+RtoLHelix:
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+LtoRHelix highest molar mass: 151.13000 g/mol
+Indexes: 1 6 7 13 14 19
+RtoLHelix highest molar mass: 151.13000 g/mol
+Indexes: 2 3 10 17
+LtoRHelix total density: 33.892 g/cm3
+RtoLHelix total density: 31.838 g/cm3
+
+========================================
+Input strand: AGCCTATAGGATCAG
+========================================
+LtoRHelix:
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+RtoLHelix:
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+LtoRHelix highest molar mass: 151.13000 g/mol
+Indexes: 1 8 9 14
+RtoLHelix highest molar mass: 151.13000 g/mol
+Indexes: 2 3 12
+LtoRHelix total density: 25.119 g/cm3
+RtoLHelix total density: 23.715 g/cm3
+
+========================================
+Input strand: AAAGCCTAGGATAGGATCAG
+========================================
+LtoRHelix:
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+RtoLHelix:
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+LtoRHelix highest molar mass: 151.13000 g/mol
+Indexes: 3 8 9 13 14 19
+RtoLHelix highest molar mass: 151.13000 g/mol
+Indexes: 4 5 17
+LtoRHelix total density: 34.319 g/cm3
+RtoLHelix total density: 30.484 g/cm3
+
+========================================
+Input strand: AAAGCCTCTGAGGATAGGATCAG
+========================================
+LtoRHelix:
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+RtoLHelix:
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Adenine
+Chemical formula: C5H5N5
+Molar mass: 135.13000 g/mol
+Density: 1.600 g/cm3
+Name: Guanine
+Chemical formula: C5H5N5O
+Molar mass: 151.13000 g/mol
+Density: 2.200 g/cm3
+Name: Thymine
+Chemical formula: C5H6N2O2
+Molar mass: 126.11500 g/mol
+Density: 1.223 g/cm3
+Name: Cytosine
+Chemical formula: C4H5N3O
+Molar mass: 111.10000 g/mol
+Density: 1.550 g/cm3
+LtoRHelix highest molar mass: 151.13000 g/mol
+Indexes: 3 9 11 12 16 17 22
+RtoLHelix highest molar mass: 151.13000 g/mol
+Indexes: 4 5 7 20
+LtoRHelix total density: 39.292 g/cm3
+RtoLHelix total density: 35.834 g/cm3
+
+Process finished with exit code 0

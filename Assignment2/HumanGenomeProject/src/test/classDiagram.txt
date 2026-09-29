@@ -1,0 +1,44 @@
+ASSIGNMENT 2 — PART 2: NUCLEIC ACID
+
++------------------------------------------------------------+
+| NucleicAcid                                                |
++------------------------------------------------------------+
+| - name: String                                             |
+| - chemicalFormula: String                                  |
+| - molarMass: float                                         |
+| - density: float                                           |
++------------------------------------------------------------+
+| + NucleicAcid()                                            |
+| + NucleicAcid(name: String, chemicalFormula: String,        |
+|               molarMass: float, density: float)            |
+| + getName(): String                                        |
+| + setName(name: String): void                              |
+| + getChemicalFormula(): String                             |
+| + setChemicalFormula(chemicalFormula: String): void        |
+| + getMolarMass(): float                                    |
+| + setMolarMass(molarMass: float): void                      |
+| + getDensity(): float                                      |
+| + setDensity(density: float): void                         |
+| + print(): void                                            |
++------------------------------------------------------------+
+                             ^
+                             | creates and returns
+                             |
++------------------------------------------------------------+
+| GenoNucleicAcid                                            |
++------------------------------------------------------------+
+| - sc: Scanner                                              |
++------------------------------------------------------------+
+| + GenoNucleicAcid()                                        |
+| + input(): NucleicAcid                                     |
+| + main(args: String[]): void [static]                      |
++------------------------------------------------------------+
+
+Legend:
+- = private
++ = public
+[static] = belongs to the class
+
+GenoNucleicAcid() is automatically supplied by Java.
+input() creates and returns a NucleicAcid object.
+main() calls input() and prints each returned object.
