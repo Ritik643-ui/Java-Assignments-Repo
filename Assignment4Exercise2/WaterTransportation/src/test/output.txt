@@ -1,0 +1,55 @@
+/Library/Java/JavaVirtualMachines/jdk-24.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=59585 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ritiksharma/JavaDeAnza/Assignment4Exercise2/WaterTransportation/target/classes com.Learning.BackToBasics.Runner.ShipDriver
+Name: Sea Explorer
+Floating: true
+Capacity: 50 people
+Length: 80.00 metres
+Width: 15.00 metres
+Height: 20.00 metres
+Origin: USA
+Owner: Blue Ocean
+Departure date: 2026-10-01
+Arrival date: 2026-10-05
+Departing port: Seattle
+Arrival port: Vancouver
+
+Name: Cargo Star
+Floating: true
+Capacity: 25 people
+Length: 200.00 metres
+Width: 32.00 metres
+Height: 40.00 metres
+Origin: USA
+Owner: Ocean Freight
+Departure date: 2026-10-02
+Arrival date: 2026-10-12
+Departing port: Los Angeles
+Arrival port: Tokyo
+Cargo type: Electronics
+Loading method: Cranes
+Number of cranes: 4
+Contraband: false
+Cargo value: $2500000.00
+
+Name: Sunset Voyager
+Floating: true
+Capacity: 2000 people
+Length: 300.00 metres
+Width: 40.00 metres
+Height: 60.00 metres
+Origin: USA
+Owner: Holiday Cruises
+Departure date: 2026-10-03
+Arrival date: 2026-10-10
+Departing port: Miami
+Arrival port: Nassau
+Ticket price: $1500.00
+Number of rooms: 1000
+Buffet menu: Pasta, salads, and desserts
+Cruise type: Family cruise
+Services:
+- Swimming pool
+- Spa
+- Live music
+
+
+Process finished with exit code 0

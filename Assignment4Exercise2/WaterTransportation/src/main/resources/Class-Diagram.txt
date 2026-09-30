@@ -1,0 +1,140 @@
+LAB 4 — EXERCISE 2: CLASS DIAGRAM
+
+Legend:
++ public
+- private
+Child --|> Parent means inheritance
+Constructor parameters are listed in code order.
+
+
++------------------------------------------------------------------+
+| Ship                                                             |
++------------------------------------------------------------------+
+| - floating: boolean                                              |
+| - capacity: int                                                  |
+| - length: double                                                 |
+| - width: double                                                  |
+| - height: double                                                 |
+| - name: String                                                   |
+| - origin: String                                                 |
+| - owner: String                                                  |
+| - departureDate: String                                          |
+| - arrivalDate: String                                            |
+| - departingPort: String                                          |
+| - arrivalPort: String                                            |
++------------------------------------------------------------------+
+| + Ship()                                                         |
+| + Ship(floating: boolean, capacity: int, length: double,           |
+|        width: double, height: double, name: String,                |
+|        origin: String, owner: String, departureDate: String,      |
+|        arrivalDate: String, departingPort: String,                |
+|        arrivalPort: String)                                      |
+| + isFloating(): boolean                                          |
+| + setFloating(floating: boolean): void                            |
+| + getCapacity(): int                                             |
+| + setCapacity(capacity: int): void                                |
+| + getLength(): double                                            |
+| + setLength(length: double): void                                |
+| + getWidth(): double                                             |
+| + setWidth(width: double): void                                  |
+| + getHeight(): double                                            |
+| + setHeight(height: double): void                                |
+| + getName(): String                                              |
+| + setName(name: String): void                                    |
+| + getOrigin(): String                                            |
+| + setOrigin(origin: String): void                                |
+| + getOwner(): String                                             |
+| + setOwner(owner: String): void                                  |
+| + getDepartureDate(): String                                     |
+| + setDepartureDate(departureDate: String): void                    |
+| + getArrivalDate(): String                                       |
+| + setArrivalDate(arrivalDate: String): void                        |
+| + getDepartingPort(): String                                     |
+| + setDepartingPort(departingPort: String): void                    |
+| + getArrivalPort(): String                                       |
+| + setArrivalPort(arrivalPort: String): void                        |
+| + print(): void                                                  |
++------------------------------------------------------------------+
+
+
++------------------------------------------------------------------+
+| CargoShip extends Ship                                           |
++------------------------------------------------------------------+
+| - cargoType: String                                              |
+| - loadingMethod: String                                          |
+| - numberOfCranes: int                                            |
+| - contraband: boolean                                            |
+| - cargoValue: double                                             |
++------------------------------------------------------------------+
+| + CargoShip()                                                    |
+| + CargoShip(floating: boolean, capacity: int, length: double,      |
+|        width: double, height: double, name: String,                |
+|        origin: String, owner: String, departureDate: String,      |
+|        arrivalDate: String, departingPort: String,                |
+|        arrivalPort: String, cargoType: String,                    |
+|        loadingMethod: String, numberOfCranes: int,                 |
+|        contraband: boolean, cargoValue: double)                   |
+| + getCargoType(): String                                         |
+| + setCargoType(cargoType: String): void                           |
+| + getLoadingMethod(): String                                     |
+| + setLoadingMethod(loadingMethod: String): void                   |
+| + getNumberOfCranes(): int                                        |
+| + setNumberOfCranes(numberOfCranes: int): void                     |
+| + isContraband(): boolean                                        |
+| + setContraband(contraband: boolean): void                        |
+| + getCargoValue(): double                                        |
+| + setCargoValue(cargoValue: double): void                         |
+| + print(): void [overrides Ship.print]                            |
++------------------------------------------------------------------+
+
+
++------------------------------------------------------------------+
+| CruiseShip extends Ship                                          |
++------------------------------------------------------------------+
+| - ticketPrice: double                                            |
+| - numberOfRooms: int                                             |
+| - buffetMenu: String                                             |
+| - services: String[]                                             |
+| - cruiseType: String                                             |
++------------------------------------------------------------------+
+| + CruiseShip()                                                   |
+| + CruiseShip(floating: boolean, capacity: int, length: double,     |
+|        width: double, height: double, name: String,                |
+|        origin: String, owner: String, departureDate: String,      |
+|        arrivalDate: String, departingPort: String,                |
+|        arrivalPort: String, ticketPrice: double,                  |
+|        numberOfRooms: int, buffetMenu: String,                    |
+|        services: String[], cruiseType: String)                    |
+| + getTicketPrice(): double                                       |
+| + setTicketPrice(ticketPrice: double): void                       |
+| + getNumberOfRooms(): int                                        |
+| + setNumberOfRooms(numberOfRooms: int): void                      |
+| + getBuffetMenu(): String                                        |
+| + setBuffetMenu(buffetMenu: String): void                         |
+| + getServices(): String[]                                        |
+| + setServices(services: String[]): void                          |
+| + getCruiseType(): String                                        |
+| + setCruiseType(cruiseType: String): void                         |
+| + print(): void [overrides Ship.print]                            |
++------------------------------------------------------------------+
+
+
++------------------------------------------------------------------+
+| ShipDriver                                                       |
++------------------------------------------------------------------+
+| No instance fields                                               |
++------------------------------------------------------------------+
+| + ShipDriver() [automatically supplied by Java]                   |
+| + main(args: String[]): void [static]                            |
++------------------------------------------------------------------+
+
+RELATIONSHIPS
+
+CargoShip  --|> Ship
+CruiseShip --|> Ship
+
+ShipDriver creates Ship, CargoShip, and CruiseShip objects.
+Its main method stores them in a local Ship[] array.
+
+Calling print() through each Ship reference runs the actual
+object's version of the method. This demonstrates polymorphism.
